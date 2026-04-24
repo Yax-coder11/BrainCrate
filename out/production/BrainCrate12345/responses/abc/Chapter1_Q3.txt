@@ -1,4 +1,0 @@
-// Chapter: 1 | Question: 3
-class Main{
-	public static void main(String[]args){
-		}}
